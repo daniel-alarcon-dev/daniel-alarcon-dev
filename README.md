@@ -33,7 +33,7 @@ Desarrollo **[Yarnasa Verified](https://yarnasa.opportunityhealth.life)**, la PW
 ### 🍔 [FlowOps](https://github.com/daniel-alarcon-dev/FlowOps)
 **Lead Full Stack Developer · Utah Tech University** · Nov. 2025 - Jun. 2026
 
-Sistema operativo mobile-first para los servicios de comedor del campus: inventario, horarios, checklists con validación fotográfica, ventas, analítica con exportación PDF, chat interno y auditoría por roles. El inventario se descuenta automáticamente según la receta de cada venta, con transacciones en PostgreSQL.
+Aplicación mobile-first de gestión operativa para restaurantes universitarios y franquicias: inventario, horarios, checklists con validación fotográfica, ventas, analítica con exportación PDF, chat interno y auditoría por roles. El inventario se descuenta automáticamente según la receta de cada venta, con transacciones en PostgreSQL.
 
 `React 19` `TypeScript` `Node.js/Express` `PostgreSQL (Neon)` `Drizzle ORM` `Zod` `Render`
 
